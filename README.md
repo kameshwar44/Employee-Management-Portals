@@ -19,7 +19,9 @@ To install the Employee Management Portal on your local machine, follow these st
 Clone the repository to your local machine.
 Install the necessary dependencies using npm.
 Start the application using npm start.
-• git clone https://github.com/username/employee-management-portal.git
+
+• git clone https://github.com/kameshwar44/Employee-Management-Portals.git
 • cd employee-management-portal
 • npm install
 • npm start
+LINK = https://tourmaline-biscochitos-4fc5bc.netlify.app/
