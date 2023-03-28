@@ -20,7 +20,8 @@ Clone the repository to your local machine.
 Install the necessary dependencies using npm.
 Start the application using npm start.
 
-• git clone https://github.com/kameshwar44/Employee-Management-Portals.git
+• git clone https://github.com/kameshwar44/Employee-Management-Portals.git //
+
 • cd employee-management-portal
 • npm install
 • npm start
