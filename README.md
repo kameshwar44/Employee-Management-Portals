@@ -24,4 +24,4 @@ Start the application using npm start.
 • cd employee-management-portal
 • npm install
 • npm start
-LINK = https://tourmaline-biscochitos-4fc5bc.netlify.app/
+Check Our Live Website = https://employe-emanagement-portal.netlify.app/
